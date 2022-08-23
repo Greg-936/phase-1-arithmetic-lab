@@ -259,7 +259,7 @@ that we can reference anywhere in JavaScript code, including `Number` and
 numbers.
 
 ### `Number`
-
+let numle
 The `Number` object comes with a collection of handy methods that we can use for
 checking and converting numbers in JavaScript.
 
